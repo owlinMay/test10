@@ -3,7 +3,7 @@ Jean Piaget's Life and Contributions to Psychology
 
 Jean Piaget was a Swiss psychologist and genetic epistemologist. He is most famously known for his theory of cognitive development that looked at [how children develop intellectually](https://www.verywellmind.com/child-development-theories-2795068) throughout the course of childhood.
 
-皮亚杰是瑞士心理学家和遗传学认识论专家。他最著名的是他的认知发展理论，该理论研究儿童在整个童年时期的智力发展。
+皮亚杰是瑞士心理学家和遗传学认识论家。他最著名的是他的认知发展理论，该理论研究儿童在整个童年时期的智力发展。
 
 Overview of Piaget's Life and Work 皮亚杰生平事迹综述
 --------------------------------------------
@@ -40,8 +40,9 @@ There have been numerous biographies written about Piaget's life, some of which 
 关于皮亚杰的一生，有很多传记，其中包括:
 
 *   Bringuier, J.C. (1980). 布兰盖尔，j.c. (1980)_Conversations with Jean Piaget. 与让 · 皮亚杰的对话_ Chicago: University of Chicago Press. 芝加哥大学出版社
-*   Evans, R. (1973). 埃文斯(1973)_Jean Piaget, the man and his ideas 让 · 皮亚杰，这个人和他的思想_. New York: Dutton. 。纽约: 达顿
-*   Piaget, J. (1952). Autobiography. In E. Boring (ed). 皮亚杰(1952) ，《自传》 ，《聊斋志异》第版_History of psychology in autobiography. 自传心理学史_Vol. 4. Worcester, MA: Clark University Press. 4. 伍斯特，马萨诸塞州: 克拉克大学出版社
+*   Evans, R. (1973). 埃文斯(1973)_Jean Piaget, the man and his ideas 让 · 皮亚杰，这个人和他的思想_. New York: Dutton. 。
+*   Piaget, J. (1952). Autobiography. In E. Boring (ed). 皮亚杰(1952) 
+*   History of psychology in autobiography. 自传心理学史_Vol. 4. Worcester, MA: Clark University Press. 4. 伍斯特，马萨诸塞州: 克拉克大学出版社
 
 Piaget's Career and Theories 皮亚杰的职业生涯与理论
 ----------------------------------------
