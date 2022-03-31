@@ -40,8 +40,9 @@ There have been numerous biographies written about Piaget's life, some of which 
 关于皮亚杰的一生，有很多传记，其中包括:
 
 *   Bringuier, J.C. (1980). 布兰盖尔，j.c. (1980)_Conversations with Jean Piaget. 与让 · 皮亚杰的对话_ Chicago: University of Chicago Press. 芝加哥大学出版社
-*   Evans, R. (1973). 埃文斯(1973)_Jean Piaget, the man and his ideas 让 · 皮亚杰，这个人和他的思想_. New York: Dutton. 。纽约: 达顿
-*   Piaget, J. (1952). Autobiography. In E. Boring (ed). 皮亚杰(1952) ，《自传》 ，《聊斋志异》第版_History of psychology in autobiography. 自传心理学史_Vol. 4. Worcester, MA: Clark University Press. 4. 伍斯特，马萨诸塞州: 克拉克大学出版社
+*   Evans, R. (1973). 埃文斯(1973)_Jean Piaget, the man and his ideas 让 · 皮亚杰，这个人和他的思想_. New York: Dutton. 。
+*   Piaget, J. (1952). Autobiography. In E. Boring (ed). 皮亚杰(1952) 
+*   History of psychology in autobiography. 自传心理学史_Vol. 4. Worcester, MA: Clark University Press. 4. 伍斯特，马萨诸塞州: 克拉克大学出版社
 
 Piaget's Career and Theories 皮亚杰的职业生涯与理论
 ----------------------------------------
