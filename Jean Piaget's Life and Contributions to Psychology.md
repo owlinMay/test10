@@ -3,7 +3,7 @@ Jean Piaget's Life and Contributions to Psychology
 
 Jean Piaget was a Swiss psychologist and genetic epistemologist. He is most famously known for his theory of cognitive development that looked at [how children develop intellectually](https://www.verywellmind.com/child-development-theories-2795068) throughout the course of childhood..,...232323
 
-皮亚杰是瑞士心理学家和遗传学认识论家。他最著名的是他的认知发展理论，该理论研究儿童在整个童年时期的智力发展。
+皮亚杰是瑞士心理学家和遗传学认识论家。他最著名的是他的认知发展理论，该理论研究儿童在整个童年时期的智力发展。2323
 
 Overview of Piaget's Life and Work 皮亚杰生平事迹综述
 --------------------------------------------
